@@ -8,7 +8,7 @@ import thread
 ant = ''
 parar = False
 mudou = False
-url = 'http://www.ppgcc.ufv.br/'
+url = 'http://'
 timer = 60
 timeInit = 0
 def service():
